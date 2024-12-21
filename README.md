@@ -1,4 +1,5 @@
 <h1 align="left">Hey there👋</h1>
+<hr>
 <h3 align="left">If you wanna onnect with me</h3>
 <div style="display: flex; align-items: center; gap: 50px; margin: 0;">
   <a href="https://t.me/moseeeu" target="_blank" style="text-decoration: none;">
