@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋</h1>
+<h1 align="left">Hey there👋</h1>
 <h3 align="left">If you wanna onnect with me</h3>
 <p style="display: flex; align-items: center; gap: 50px; margin: 0;">
   <a href="https://t.me/moseeeu" target="_blank" style="text-decoration: none;">
@@ -11,6 +11,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="80">
   </a>
 </p>
+<hr>
 
 ![Vinland Saga Thorfinn GIF - Vinland Saga Thorfinn Relaxing - Descobrir e Compartilhar GIFs](https://github.com/user-attachments/assets/a3a32653-598e-400e-8f92-ea0e6e163e9b)
 
