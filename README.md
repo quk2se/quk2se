@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋</h1>
 <h3 align="left">If you wanna onnect with me</h3>
-<p style="display: flex; align-items: center; gap: 15px; margin: 0;">
+<p style="display: flex; align-items: center; gap: 50px; margin: 0;">
   <a href="https://t.me/moseeeu" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40">
   </a>
